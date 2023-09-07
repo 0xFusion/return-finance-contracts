@@ -1,0 +1,12 @@
+node_modules
+.env
+abi
+arguments.js
+.vscode
+coverage
+
+#Hardhat files
+cache
+artifacts
+.env.prod
+.env.test
